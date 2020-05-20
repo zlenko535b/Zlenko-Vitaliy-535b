@@ -1,0 +1,3 @@
+lab_0/Lab_0_SP/.vs
+lab_0/Lab_0_SP/Debug
+lab_0/Lab_0_SP/Lab_0_SP/Debug
