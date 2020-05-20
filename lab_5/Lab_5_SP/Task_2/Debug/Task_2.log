@@ -1,0 +1,4 @@
+﻿  Task_2.cpp
+C:\Users\olegt\source\repos\Lab_5_SP\Task_2\Task_2.cpp(28,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\olegt\source\repos\Lab_5_SP\Task_2\Task_2.cpp(48,20): warning C4018:  '<': signed/unsigned mismatch
+  Task_2.vcxproj -> C:\Users\olegt\source\repos\Lab_5_SP\Debug\Task_2.exe
