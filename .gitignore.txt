@@ -9,3 +9,7 @@ lab_4/Lab_4_SP/Debug
 lab_4/Lab_4_SP/.vs
 lab_4/Lab_4_SP/Lab_4_SP/Debug
 lab_4/Lab_4_SP/Lab_4_SP_Task_2/Debug
+lab_2/Lab_3_SP/.vs
+lab_2/Lab_3_SP/Debug
+lab_2/Lab_3_SP/Lab_3_Task_1_SP/Debug
+lab_2/Lab_3_SP/Lab_3_Task_2_SP/Debug

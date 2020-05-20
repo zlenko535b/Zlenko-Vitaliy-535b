@@ -1,0 +1,6 @@
+﻿  Main.cpp
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_2\Lab_3_SP\Lab_3_Task_1_SP\Main.cpp(223,35): warning C4244:  'initializing': conversion from 'unsigned long' to 'WORD', possible loss of data
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_2\Lab_3_SP\Lab_3_Task_1_SP\Main.cpp(238,32): warning C4244:  '=': conversion from 'DWORD' to 'WORD', possible loss of data
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_2\Lab_3_SP\Lab_3_Task_1_SP\Main.cpp(289,20): warning C4244:  '=': conversion from 'DWORD' to 'WORD', possible loss of data
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_2\Lab_3_SP\Lab_3_Task_1_SP\Main.cpp(345,20): warning C4244:  'initializing': conversion from 'DWORD' to 'WORD', possible loss of data
+  Lab_3_Task_1_SP.vcxproj -> E:\Studing\3_course\2 semester\System programming\lab_repository\lab_2\Lab_3_SP\Debug\Lab_3_Task_1_SP.exe
