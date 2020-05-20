@@ -1,0 +1,7 @@
+﻿  Task_1.cpp
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_1\Lab_1_SP\Lab_1_SP\Task_1.cpp(96,12): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_1\Lab_1_SP\Lab_1_SP\Task_1.cpp(145,12): warning C4477:  'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'DWORD_PTR'
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_1\Lab_1_SP\Lab_1_SP\Task_1.cpp(145,12): message :  consider using '%llu' in the format string
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_1\Lab_1_SP\Lab_1_SP\Task_1.cpp(145,12): message :  consider using '%Iu' in the format string
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_1\Lab_1_SP\Lab_1_SP\Task_1.cpp(145,12): message :  consider using '%I64u' in the format string
+  Lab_1_SP.vcxproj -> E:\Studing\3_course\2 semester\System programming\lab_repository\lab_1\Lab_1_SP\x64\Debug\Lab_1_SP_Task_1.exe

@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_1\Lab_1_SP\Lab_1_SP_Task_2\Main.cpp(203,32): warning C4244:  'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\Studing\3_course\2 semester\System programming\lab_repository\lab_1\Lab_1_SP\Lab_1_SP_Task_2\Main.cpp(219,12): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+  Lab_1_SP_Task_2.vcxproj -> E:\Studing\3_course\2 semester\System programming\lab_repository\lab_1\Lab_1_SP\x64\Debug\Lab_1_SP_Task_2_new.exe
