@@ -5,3 +5,7 @@ lab_1/Lab_1_SP/.vs
 lab_1/Lab_1_SP/x64
 lab_1/Lab_1_SP/Lab_1_SP/x64
 lab_1/Lab_1_SP/Lab_1_SP_Task_2/x64
+lab_4/Lab_4_SP/Debug
+lab_4/Lab_4_SP/.vs
+lab_4/Lab_4_SP/Lab_4_SP/Debug
+lab_4/Lab_4_SP/Lab_4_SP_Task_2/Debug

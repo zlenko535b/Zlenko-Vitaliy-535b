@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\olegt\source\repos\Lab_4_SP\Lab_4_SP_Task_2\Main.cpp(97,14): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab_4_SP_Task_2.vcxproj -> C:\Users\olegt\source\repos\Lab_4_SP\Debug\Lab_4_SP_Task_2.exe
